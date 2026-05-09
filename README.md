@@ -48,7 +48,7 @@ Make sure you have the following installed:
 # Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Navigate to the project folder
+# Navigate To The Project Folder
 cd <YOUR_PROJECT_NAME>
 
 # Install dependencies
